@@ -4,6 +4,12 @@ DQN, PPO and tabular Q-learning experiments for CartPole, Breakout and Pendulum.
 
 **Technologies:** Python · Gymnasium · Stable-Baselines3 · PyTorch
 
+## Academic context
+
+Completed as **UTS 43008, Assessment 2**, an **individual assessment** exploring reinforcement-learning control across CartPole, Breakout and Pendulum.
+
+The repository includes assessment workflows and preserved experiment variants. External libraries, environment implementations and any cited reference material retain their original authorship.
+
 ## What is included
 
 - Canonical experiments in notebooks/ with descriptive environment and algorithm names.
