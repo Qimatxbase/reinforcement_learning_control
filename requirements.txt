@@ -1,0 +1,9 @@
+gymnasium[atari,box2d]
+ale-py
+stable-baselines3[extra]
+torch
+numpy
+pandas
+matplotlib
+imageio[ffmpeg]
+jupyterlab
