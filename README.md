@@ -31,5 +31,3 @@ jupyter lab
 ```
 
 Training can require substantial compute. Atari experiments also need the environment assets requested by their notebooks. Original reports and specifications are kept locally in reports/. Course reference notebooks are outside this repository under references/reinforcement_learning_notes/.
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
